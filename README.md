@@ -4,6 +4,8 @@
 
 ### Lista de tarefas.
 
-- [ ] Criar um servidor GRPC.
-- [ ] Criar um cliente GRPC.
-- [ ] Criar serviço de Adicionar um novo usuáro. 
+- [X] Criar um servidor GRPC. :white_check_mark:	
+- [X] Criar um cliente GRPC. :white_check_mark:	
+- [X] Criar serviço de Adicionar um novo usuáro. :white_check_mark:	 
+- [ ] Escrever testes unitários.
+- [ ] Criar um cliente Web utilizando JS. 
